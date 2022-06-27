@@ -5,7 +5,7 @@ ProxyLogon is the formally generic name for CVE-2021-26855, a vulnerability on M
 ## ProxyLogon For Python3
 ```python
 usage:
-    sudo python3 proxylogon.py --host=target.com --mail=admin@target.com
+     python proxylogon.py --host=target.com --mail=admin@target.com
     sudo python3 proxylogon.py --host=target.com --mails=./mails.txt
 ```
 
