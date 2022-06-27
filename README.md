@@ -12,3 +12,7 @@ usage:
 #### Tips:
 * 1) recon target to find valid email address
 * 2) if you do not find any email, use bruteforce target with your email file.
+
+
+#### references
+* [proxylogon](https://proxylogon.com/)
