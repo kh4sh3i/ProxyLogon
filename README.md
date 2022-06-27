@@ -1,8 +1,8 @@
 # ProxyLogon
-ProxyLogon (CVE-2021-26855+CVE-2021-27065) Exchange Server RCE (SSRF->GetWebShell)
+ProxyLogon is the formally generic name for CVE-2021-26855, a vulnerability on Microsoft Exchange Server that allows an attacker bypassing the authentication and impersonating as the admin. We have also chained this bug with another post-auth arbitrary-file-write vulnerability, CVE-2021-27065, to get code execution.
 
 
-# ProxyLogon For Python3
+## ProxyLogon For Python3
 ```python
 usage:
     python ProxyLogon.py --host=target.com --mail=admin@target.com
