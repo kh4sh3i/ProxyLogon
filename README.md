@@ -19,10 +19,16 @@ usage:
 
 
 #### Tips:
-* 1) recon target to find valid email address
-* 2) if you do not find any email, use bruteforce target with your email file.
-* 3) in some target automation exploit not work, you should bruteforce SID and replace in SID=500
+1) recon target to find valid email address
+2) if you do not find any email, use bruteforce target with your email file.
+3) in some target automation exploit not work, you should bruteforce SID and replace in SID=500
 
+### manual pentest 
+```python
+sudo python2 /manual/check.py 
+sudo python2 /manual/shell.py 
+sudo python2 /manual/brute.py 
+```
 
 #### references
 * [proxylogon](https://proxylogon.com/)
