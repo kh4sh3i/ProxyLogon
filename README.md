@@ -30,5 +30,12 @@ sudo python2 /manual/shell.py
 sudo python2 /manual/brute.py 
 ```
 
+<img src="/img/1.png" width="800px" />
+<img src="/img/2.png" width="800px" />
+<img src="/img/3.png" width="800px" />
+<img src="/img/4.png" width="800px" />
+<img src="/img/5.png" width="800px" />
+
+
 #### references
 * [proxylogon](https://proxylogon.com/)
